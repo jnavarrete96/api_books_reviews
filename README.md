@@ -1,6 +1,6 @@
-# Backend — API Books & Reviews (Symfony 6)
+# Backend — API Books & Reviews (Symfony 8)
 
-Este backend expone una API REST construida con **Symfony 6 + Doctrine ORM** para gestionar libros y reseñas.
+Este backend expone una API REST construida con **Symfony 8 + Doctrine ORM** para gestionar libros y reseñas.
 
 ---
 
