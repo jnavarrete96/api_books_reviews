@@ -27,7 +27,6 @@ class ReviewService
         $review->setBook($book);
         $review->setRating($dto->rating);
         $review->setComment($dto->comment);
-        $review->setCreatedAt(new \DateTimeImmutable());
 
         $this->entityManager->persist($review);
         $this->entityManager->flush();
